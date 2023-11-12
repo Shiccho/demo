@@ -12,3 +12,7 @@ https://github.com/Shiccho/demo/assets/94341374/25d6c378-7165-46f2-b0c7-84265441
 
 https://ivrc.net/archive/%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90%E3%81%A8%E9%81%8A%E3%81%BC%E3%81%86-2022/
 
+## ロボットアームの強化学習コードと、そのデモ
+
+https://github.com/Shiccho/DGDRL_implementation
+
