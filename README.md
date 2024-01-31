@@ -18,4 +18,4 @@ https://github.com/Shiccho/DGDRL_implementation
 
 ## 手術映像を撮影するロボットカメラの実装とそのデモ動画
 
-https://github.com/Shiccho/Robot_Cam_PPO
+https://github.com/Shiccho/RobotCam_PPO
