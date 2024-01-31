@@ -13,7 +13,7 @@ https://ivrc.net/archive/%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90%E3%81%A8%E9%81%8A%
 イライラ棒をVRで実装したゲームです。
 VR版の特徴を出すためにステージがプレイヤーを取り囲むようにし、ステージが回転するなどのギミックを取り入れました。
 
-https://github.com/Shiccho/demo/assets/94341374/e79eafa0-0997-40c2-9973-5f8546b74bf9
+https://github.com/Shiccho/demo/assets/94341374/17d4a2ed-ced8-489c-8671-75dd1927908e
 
 ### ARヨット
 うちわで起こした風によってAR表示されているヨットを操作するゲームです。
