@@ -17,7 +17,7 @@ https://github.com/Shiccho/demo/assets/94341374/17d4a2ed-ced8-489c-8671-75dd1927
 
 ### ARヨット
 うちわで起こした風によってAR表示されているヨットを操作するゲームです。
-うちわに取り付けたJoy-conによって動きを取得し、ゲーム内に風を発生させています。
+うちわに取り付けたJoy-Conによって動きを取得し、ゲーム内に風を発生させています。
 
 https://github.com/Shiccho/demo/assets/94341374/2bd35e8e-e2e8-4a8d-b328-f6000252fb7e
 
